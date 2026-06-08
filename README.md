@@ -1,5 +1,11 @@
 # Vendor Invoice Intelligence Portal
 
+Live Demo
+
+Application URL:
+
+https://vendor-invoice-intelligence-app-kqibgwa7hkzy3qcvf2c5hh.streamlit.app/
+
 ## Overview
 
 The Vendor Invoice Intelligence Portal is an end-to-end machine learning application designed to support procurement and finance teams by automating two critical business processes:
