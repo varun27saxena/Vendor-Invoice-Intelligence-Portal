@@ -224,7 +224,7 @@ text Vendor-Invoice-Intelligence-Portal/ │ ├── app.py ├── requirem
 
 Clone the repository:
 
-bash git clone https://github.com/your-username/Vendor-Invoice-Intelligence-Portal.git cd Vendor-Invoice-Intelligence-Portal 
+bash git clone https://github.com/varun27saxena/Vendor-Invoice-Intelligence-Portal.git cd Vendor-Invoice-Intelligence-Portal 
 
 Install dependencies:
 
